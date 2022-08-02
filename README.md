@@ -1,7 +1,7 @@
 # number-of-wagons-problem
 
-# Given a circular train with a light bulb and on/off switch in each wagon, 
-# find the number of wagons.
+## Given a circular train with a light bulb and on/off switch in each wagon, 
+## find the number of wagons.
 
 - the begining: there is randomize color in each wagon 
 ![image](https://user-images.githubusercontent.com/73063199/182365379-6dc8f831-e1aa-4acb-a176-c45290276e68.png)
